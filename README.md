@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ### Reach out to me
 
-[![medium](https://img.shields.io/badge/Medium-D2D1D1?logo=medium&style=for-the-badge)](https://medium.com/@rohinivsenthil) &nbsp; &nbsp; 
-[![gmail](https://img.shields.io/badge/Gmail-ffcdd2?logo=gmail&style=for-the-badge)](rohinivsenthil@gmail.com) &nbsp; &nbsp; 
-[![twitter](https://img.shields.io/badge/Twitter-D1CFFF?logo=twitter&style=for-the-badge)](https://twitter.com/rohvsenthil) &nbsp; &nbsp; 
-[![linkedin](https://img.shields.io/badge/LinkedIn-8EBEFC?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/rohinivsenthil)
+<div>
+  <a href="https://medium.com/@rohinivsenthil"><img src="https://img.shields.io/badge/Medium-424242?logo=medium&style=for-the-badge"/></a> &nbsp; &nbsp; 
+  <a href="mailto:rohinivsenthil@gmail.com?"><img src="https://img.shields.io/badge/Gmail-ffcdd2?logo=gmail&style=for-the-badge"/></a> &nbsp; &nbsp; 
+  <a href="https://twitter.com/rohvsenthil"><img src="https://img.shields.io/badge/Twitter-e1f5fe?logo=twitter&style=for-the-badge"/></a> &nbsp; &nbsp; 
+  <a href="https://linkedin.com/in/rohinivsenthil"><img src="https://img.shields.io/badge/LinkedIn-01579b?logo=linkedin&style=for-the-badge"/></a> &nbsp; &nbsp; 
+ </div>
