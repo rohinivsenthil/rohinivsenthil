@@ -1,22 +1,13 @@
-# Rohini Senthil
+# [Rohini Senthil](https://rohinivsenthil.github.io/)
 
-<!--
-**rohinivsenthil/rohinivsenthil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+<!-- 👋🏼 &nbsp; &nbsp; Hey there! I'm Rohini   -->
+👩🏻‍💻 &nbsp; &nbsp; I'm a Javascript Full Stack developer who's passionate about web development  
+🌱 &nbsp; &nbsp;I love working with React, NodeJS and GraphQL  
+📦 &nbsp; &nbsp;I'm currently building [Postcode](https://github.com/rohinivsenthil/postcode), a Visual Studio Code extension to create and test HTTP/s requests
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Reach out to me
-
+### Where else to find me?
 <div>
   <a href="https://medium.com/@rohinivsenthil"><img src="https://img.shields.io/badge/Medium-424242?logo=medium&style=for-the-badge"/></a> &nbsp; &nbsp; 
   <a href="mailto:rohinivsenthil@gmail.com?"><img src="https://img.shields.io/badge/Gmail-ffcdd2?logo=gmail&style=for-the-badge"/></a> &nbsp; &nbsp; 
