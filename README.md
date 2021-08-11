@@ -4,7 +4,7 @@
 <!-- 👋🏼 &nbsp; &nbsp; Hey there! I'm Rohini   -->
 👩🏻‍💻 &nbsp; &nbsp; I'm a Javascript Full Stack developer who's passionate about web development  
 🌱 &nbsp; &nbsp;I love working with React, NodeJS and GraphQL  
-📦 &nbsp; &nbsp;I'm currently building [Postcode](https://github.com/rohinivsenthil/postcode), a Visual Studio Code extension to create and test HTTP/s requests
+📌 &nbsp; &nbsp;I'm currently building [Terrastate](https://github.com/rohinivsenthil/terrastate), a VS Code extension to monitor/deploy/destroy Terraform resources defined in your workspace
 
 
 ### Where else to find me?
