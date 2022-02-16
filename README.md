@@ -11,6 +11,5 @@
 <div>
   <a href="https://medium.com/@rohinivsenthil"><img src="https://img.shields.io/badge/Medium-424242?logo=medium&style=for-the-badge"/></a> &nbsp; &nbsp; 
   <a href="mailto:rohinivsenthil@gmail.com?"><img src="https://img.shields.io/badge/Gmail-ffcdd2?logo=gmail&style=for-the-badge"/></a> &nbsp; &nbsp; 
-  <a href="https://twitter.com/rohvsenthil"><img src="https://img.shields.io/badge/Twitter-e1f5fe?logo=twitter&style=for-the-badge"/></a> &nbsp; &nbsp; 
   <a href="https://linkedin.com/in/rohinivsenthil"><img src="https://img.shields.io/badge/LinkedIn-01579b?logo=linkedin&style=for-the-badge"/></a> &nbsp; &nbsp; 
  </div>
