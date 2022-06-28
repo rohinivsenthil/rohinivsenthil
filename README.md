@@ -2,8 +2,8 @@
 
 ### Who am I?
 <!-- 👋🏼 &nbsp; &nbsp; Hey there! I'm Rohini   -->
-👩🏻‍💻 &nbsp; &nbsp; I'm a Javascript Full Stack developer who's passionate about web development  
-🌱 &nbsp; &nbsp;I love working with React, NodeJS and GraphQL  
+👩🏻‍💻 &nbsp; &nbsp; I work as a Full Stack developer  
+🌱 &nbsp; &nbsp;I love building applications with React, NodeJS and GraphQL  
 📌 &nbsp; &nbsp;I'm currently building [Rabbitrace](https://github.com/rohinivsenthil/rabbitrace), a VS Code extension to manage RabbitMQ exchanges and queues defined in your workspace
 
 
